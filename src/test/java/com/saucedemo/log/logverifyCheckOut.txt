@@ -1,0 +1,4 @@
+Jun 25, 2022 11:29:56 AM com.saucedemo.tests.Test_CheckOut verifyCheckOut
+INFO: Passing login Credentials
+Jun 25, 2022 11:29:56 AM com.saucedemo.tests.Test_CheckOut verifyCheckOut
+INFO: Adding product to cart

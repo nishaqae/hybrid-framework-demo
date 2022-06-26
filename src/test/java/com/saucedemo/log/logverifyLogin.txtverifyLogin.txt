@@ -1,0 +1,2 @@
+Jun 26, 2022 2:28:11 PM com.saucedemo.tests.Test_Login verifyLogin
+SEVERE: Login Failed  with username : locked_out_user

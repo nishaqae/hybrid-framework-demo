@@ -1,0 +1,4 @@
+Jun 26, 2022 2:28:17 PM com.saucedemo.tests.Test_Login verifyLogin
+INFO: Page Title on successfule login : Swag Labs
+Jun 26, 2022 2:28:17 PM com.saucedemo.tests.Test_Login verifyLogin
+INFO: Login Successful with username : performance_glitch_user
